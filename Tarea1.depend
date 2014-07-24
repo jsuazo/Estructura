@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1406158939 source:c:\users\suazo\desktop\u\tri3\estructura\estructuratarea1-master\evaluador.cpp
+	"Evaluador.h"
+
+1405488264 c:\users\suazo\desktop\u\tri3\estructura\estructuratarea1-master\evaluador.h
+	<iostream>
+	<queue>
+
+1406169178 source:c:\users\suazo\desktop\u\tri3\estructura\estructuratarea1-master\main.cpp
+	"Evaluador.h"
+	<iostream>
+	<queue>
+
